@@ -20,7 +20,7 @@
     "ffmpeg-static": "^5.1.0"
   },
   "scripts": {
-    "start": "node your-script.js"
+    "start": "node app.js"
 }
 }
 
